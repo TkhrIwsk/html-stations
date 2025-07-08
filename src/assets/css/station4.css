@@ -26,8 +26,8 @@ header
 {
     /*6*/
     background-color:#ffffff;
-    width: 250px;
-    height:150px;
+    width: 500px;
+    height:300px;
 }
 body
 {
@@ -38,6 +38,6 @@ footer
 {
     /*8*/
     background-color:#ffffff;
-    width: 250px;
-    height:150px;
+    width: 500px;
+    height:300px;
 }
