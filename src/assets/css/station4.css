@@ -22,19 +22,19 @@
 {
     padding:50px;
 }
-.header
+header
 {
     /*6*/
     background-color:#ffffff;
     width: 250px;
     height:150px;
 }
-.body
+body
 {
     /*7*/
     background-color:#C4C4C4;
 }
-.footer
+footer
 {
     /*8*/
     background-color:#ffffff;
