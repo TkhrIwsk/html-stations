@@ -1,0 +1,50 @@
+.card
+{
+  background-color:#ffffff;
+}
+.card__title
+{
+  color:#282828;
+  font-size:14px;  
+}
+.card__description
+{
+  color:#282828;
+  font-size:12px;  
+}
+.card__img-top
+{
+    width:288px;
+    height:182px;
+    margin-bottom:50px
+}
+.card
+{
+    padding:50px;
+
+}
+header
+{
+    /*6*/
+    background-color:#ffffff;
+    width: 500px;
+    height:300px;
+}
+body
+{
+    /*7*/
+    background-color:#C4C4C4;
+}
+footer
+{
+    /*8*/
+    background-color:#ffffff;
+    width: 500px;
+    height:300px;
+}
+.main
+{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
