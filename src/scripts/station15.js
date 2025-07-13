@@ -7,7 +7,11 @@ async function getData() {
     { id: 2, first_name: '太郎', family_name: '山田', affiliation: 'HogeHoge大学', is_student: true }
   ];
   const result = await test();
-  return userList.map(data => (data.full_name=data.family_name+" "+data.first_name));
+  return userList.map(data => 
+    {
+      data.full_name=data.family_name+" "+data.first_name;
+      return data;
+    });
 }
 
 function test() {
