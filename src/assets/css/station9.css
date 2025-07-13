@@ -54,17 +54,23 @@ main
     
 }
 
+/*タブレット*/
 @media screen and (max-width:900px)
 {
-    .card
+    .card__title
+    {
+        font-size:9px;
+    }
+    .card__description
     {
         font-size:9px;
     }
 }
 
+/*スマホ*/
 @media screen and (max-width:600ox)
 {
-    .card
+    .card__description
     {
         display:none;
     }
