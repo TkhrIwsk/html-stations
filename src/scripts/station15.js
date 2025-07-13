@@ -11,6 +11,6 @@ async function getData() {
 }
 
 function test() {
-  return
+  return 3000
 }
 
