@@ -68,7 +68,7 @@ main
 }
 
 /*スマホ*/
-@media screen and (max-width:600ox)
+@media screen and (max-width:600px)
 {
     .card__description
     {
