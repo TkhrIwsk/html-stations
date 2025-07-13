@@ -11,6 +11,6 @@ async function getData() {
 }
 
 function test() {
-  return 3000
+  return new Promise(Resolve => setTimeout(Resolve,3000));
 }
 
